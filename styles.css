@@ -5,8 +5,8 @@ h1 {
 }
 
 img {
-    width: 800px;
-    height: 400px;
+    max-width: 100%;
+    height: auto;
 }
 
 .subpage {
