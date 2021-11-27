@@ -1,0 +1,16 @@
+h1 {
+    background-color: royalblue;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    width: 800px;
+    height: 400px;
+}
+
+.subpage {
+    background-color: thistle;
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
